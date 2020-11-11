@@ -1,0 +1,28 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://github.com/payprotocol/logo/blob/main/logo1.png?raw=true",
+            "logo_1024": "https://github.com/payprotocol/logo/blob/main/logo1.png?raw=true",
+            "logo_svg": "https://github.com/payprotocol/logo/blob/main/logo1.png?raw=true"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "https://twitter.com/payprotocol",
+            "youtube": "https://www.youtube.com/channel/UCytSS1yIu8Vliu7WH-FGXrA",
+            "facebook": "https://www.facebook.com/payprotocol/",
+            "github": "https://github.com/payprotocol",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "https://t.me/payprotocol",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "KOR",
+            "city": "Seoul"
+        },
+        "server_type": "cloud",
+        "api_endpoint": "3.131.196.72:9000"
+    }
+}
